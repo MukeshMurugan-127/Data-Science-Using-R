@@ -1,0 +1,11 @@
+x <- 25
+y <- 25L
+z <- "Data Science"
+a <- TRUE
+b <- 2 + 3i
+
+class(x)
+class(y)
+class(z)
+class(a)
+class(b)
