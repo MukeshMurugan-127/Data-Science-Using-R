@@ -1,0 +1,6 @@
+v <- c(10,20,30,40)
+m <- matrix(c(1,2,3,4), nrow=2)
+l <- list("R",100,TRUE)
+print(v)
+print(m)
+print(l)
